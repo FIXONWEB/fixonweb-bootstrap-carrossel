@@ -13,6 +13,7 @@ Um tipo de postagem personalizado para escolher imagens e conteúdo que gera o B
 
 == Description ==
 
+Este plugin é um fork de https://github.com/ewels/CPT-Bootstrap-Carousel onde se foi necessário fazer algumas alterações para atender a demanda. Os crédito do plugin pertence ao seu devido autor sendo que apenas procedi com algumas modificações para uso proprio.
 
 == Installation ==
 
