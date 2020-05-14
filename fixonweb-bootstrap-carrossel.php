@@ -12,7 +12,7 @@
  * @package         Fixonweb_Bootstrap_Carrossel
  */
 
-// Your code starts here.
+defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 require 'plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker('https://github.com/FIXONWEB/fixonweb-bootstrap-carrossel', __FILE__, 'fixonweb-bootstrap-carrossel/fixonweb-bootstrap-carrossel');
